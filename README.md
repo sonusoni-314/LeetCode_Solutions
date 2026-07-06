@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1748-sum-of-unique-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1748-sum-of-unique-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [1748-sum-of-unique-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
