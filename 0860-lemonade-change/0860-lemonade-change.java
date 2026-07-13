@@ -5,25 +5,26 @@ class Solution {
         int count10 = 0;
         int count20 = 0;
 
-        for(int i=0; i<bills.length; i++){
+        for(int x : bills){
 
-            if(bills[i] == 5){
+            if(x == 5){
                 count5++;
             }
-            else if(bills[i] == 10){
-                if(count5 >= 1){
-                    count5--;
+
+            else if(x == 10){
+                if(count5>=1){
                     count10++;
+                    count5--;
                 }
                 else{
                     return false;
                 }
             }
+
             else{
-                if(count5 >= 1 && count10 >= 1){
-                    count5--;
+                if(count10>=1 && count5>=1){
                     count10--;
-                    count20++;
+                    count5--;
                 }
                 else if(count5 >= 3){
                     count5-=3;
@@ -33,6 +34,6 @@ class Solution {
                 }
             }
         }
-        return true;        
+        return true;
     }
 }
