@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -180,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
