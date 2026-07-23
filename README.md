@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [0643-maximum-average-subarray-i](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
