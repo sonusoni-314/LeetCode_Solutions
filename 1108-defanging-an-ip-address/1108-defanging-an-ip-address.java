@@ -12,4 +12,6 @@ class Solution {
         }
         return ans.toString();
     }
+
+    // return address.replace(".", "[.]");
 }
