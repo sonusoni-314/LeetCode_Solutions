@@ -1,17 +1,15 @@
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
-
         int count = 0;
-        HashSet <Character> set = new HashSet<>();
 
-        for(char ch : jewels.toCharArray()){
-            set.add(ch);
+        for (int i = 0; i < stones.length(); i++) {
+            for (int j = 0; j < jewels.length(); j++) {
+                if (stones.charAt(i) == jewels.charAt(j)) {
+                    count++;
+                }
+            }
         }
 
-        for(char ch : stones.toCharArray()){
-            if(set.contains(ch))
-                count++;
-        }
         return count;
     }
 }
