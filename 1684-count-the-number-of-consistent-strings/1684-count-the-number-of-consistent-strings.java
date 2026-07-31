@@ -8,20 +8,17 @@ class Solution {
             set.add(ch);
 
         for(int i=0; i<words.length; i++){
-
             boolean appear = true;
-            
             for(char ch : words[i].toCharArray()){
-
                 if(!set.contains(ch)){
                     appear = false;
                     break;                    
                 }
             }
-
             if(appear)
                 count++;
         }
+        
         return count;
     }
 }
