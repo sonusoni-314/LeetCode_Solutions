@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1528-shuffle-string) |
 | [1748-sum-of-unique-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2090-k-radius-subarray-averages](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1678-goal-parser-interpretation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
