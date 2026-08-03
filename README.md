@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0771-jewels-and-stones](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
