@@ -12,9 +12,9 @@ class Solution {
             max = Math.max(max, x);
         }
 
-        for(int i=min+1; i<max; i++){
-            if(!set.contains(i)){
-                list.add(i);
+        for(int i=min; i<max; i++){
+            if(!set.contains(i+1)){
+                list.add(i+1);
             }
         }
         
