@@ -12,10 +12,17 @@ class Solution {
             max = Math.max(max, x);
         }
 
-        for(int i=min; i<max; i++){
-            if(!set.contains(i+1)){
-                list.add(i+1);
+        // for(int i=min; i<max; i++){
+        //     if(!set.contains(i+1)){
+        //         list.add(i+1);
+        //     }
+        // }
+
+        while(min < max){
+            if(!set.contains(min+1)){
+                list.add(min+1);
             }
+            min += 1;
         }
         
         return list;        
