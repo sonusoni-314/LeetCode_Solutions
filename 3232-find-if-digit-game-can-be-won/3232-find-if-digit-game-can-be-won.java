@@ -12,7 +12,7 @@ class Solution {
                 doublee = doublee + x;
             }
         }
-        if(single > doublee || doublee > single){
+        if(single != doublee){
             return true;
         }
         return false;        
