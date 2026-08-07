@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0771-jewels-and-stones](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0877-stone-game) |
@@ -234,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
