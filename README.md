@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3115-maximum-prime-difference](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3115-maximum-prime-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3115-maximum-prime-difference](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3115-maximum-prime-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -331,5 +334,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3115-maximum-prime-difference](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3115-maximum-prime-difference) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Sieve Theory
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
