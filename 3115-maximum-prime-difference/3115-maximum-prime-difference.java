@@ -15,7 +15,6 @@ class Solution {
 
         int left = 0;
         int right = nums.length-1;
-        int val = 0;
 
         while(left <= right){
             if(!isPrime(nums[left])){
@@ -25,8 +24,7 @@ class Solution {
                 right--;
             }
             else{
-                val = right - left;
-                return val;
+                return right - left;
             }
         }
         return 0;        
