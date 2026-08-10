@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0507-perfect-number) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 ## Primality Test
 |  |
