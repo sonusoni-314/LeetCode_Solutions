@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
