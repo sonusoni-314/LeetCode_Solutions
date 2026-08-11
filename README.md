@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3115-maximum-prime-difference](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3115-maximum-prime-difference) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
