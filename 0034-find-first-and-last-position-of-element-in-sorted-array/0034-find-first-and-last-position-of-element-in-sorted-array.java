@@ -8,9 +8,8 @@ class Solution {
         int right = nums.length - 1;
         int mid = 0;
 
-        // Lower Bound: first index >= target
         while(left <= right){
-            mid = left + (right - left) / 2;
+            mid = left + (right-left)/2;
 
             if(nums[mid] >= target){
                 lb = mid;
@@ -20,16 +19,14 @@ class Solution {
                 left = mid + 1;
         }
 
-        // Target doesn't exist
         if(lb == -1 || nums[lb] != target)
             return new int[]{-1, -1};
 
         left = 0;
         right = nums.length - 1;
 
-        // Upper Bound: first index > target
         while(left <= right){
-            mid = left + (right - left) / 2;
+            mid = left + (right-left)/2;
 
             if(nums[mid] > target){
                 ub = mid;
@@ -38,9 +35,7 @@ class Solution {
             else
                 left = mid + 1;
         }
-
-        // If no element is greater than target,
-        // target continues until the last index.
+        
         if(ub == -1)
             return new int[]{lb, nums.length - 1};
 
