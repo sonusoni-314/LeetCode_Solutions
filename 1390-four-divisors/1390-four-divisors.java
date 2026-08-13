@@ -1,25 +1,27 @@
 class Solution {
     public int sumFourDivisors(int[] nums) {
 
-        int x = 0, count = 0, n = 0, sum = 0, divisorSum = 0;
-        while(x < nums.length){
-            n = nums[x];
+        int count = 0;
+        int sum = 0;
+        int divisorSum = 0;
+
+        for(int x:nums){
             count = 0;
             divisorSum = 0;
 
-            for(int i=1; i*i<=n; i++){
-                if(n%i == 0){
+            for(int i=1; i*i<=x; i++){
+                if(x%i == 0){
                     count++;
-                    divisorSum += i;
-                    if(i != n/i){
+                    divisorSum = divisorSum + i;
+                    if(i != x/i){
                         count++;
-                        divisorSum += n/i;
+                        divisorSum = divisorSum + (x/i);
                     }
                 }
             }
-            if(count == 4)
-                sum += divisorSum;
-            x++;
+            if(count == 4){
+                    sum = sum + divisorSum;
+            }
         }
         return sum;
     }
