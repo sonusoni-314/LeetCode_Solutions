@@ -1,25 +1,20 @@
 class Solution {
     public boolean checkPerfectNumber(int num) {
 
-        if(num <= 1){
-            return false;
-        }
+        if(num<=1)  return false;
 
-        int numb = num;
         int sum = 0;
+        int og = num;
 
         for(int i=1; i*i<=num; i++){
             if(num%i == 0){
-                sum = sum + i;
+                sum += i;
                 if(i != num/i && num/i != num){
-                    sum = sum + (num/i);
+                    sum += num/i;
                 }
             }
         }
-
-        if(sum == numb){
-            return true;
-        }
-        return false;        
+        if(sum == og)   return true;
+        return false;
     }
 }
