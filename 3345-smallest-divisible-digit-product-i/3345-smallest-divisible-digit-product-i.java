@@ -1,6 +1,5 @@
 class Solution {
     public int smallestNumber(int n, int t) {
-        boolean found = true;
         int x = 0;
         int prod = 1;
         int digit = 0;
