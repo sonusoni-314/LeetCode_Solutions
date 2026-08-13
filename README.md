@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2090-k-radius-subarray-averages](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2090-k-radius-subarray-averages) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2315-count-asterisks](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2315-count-asterisks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
@@ -409,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
