@@ -7,11 +7,11 @@ class Solution {
 
         for(int x:prices){
 
+            minPrice = Math.min(x, minPrice);
             if(x > minPrice){
                 profit = x - minPrice;
                 max = Math.max(max, profit);
             }
-            minPrice = Math.min(x, minPrice);
         }
         return max;
     }
