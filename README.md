@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2315-count-asterisks](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2315-count-asterisks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2090-k-radius-subarray-averages](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting Sort
 |  |
 | ------- |
