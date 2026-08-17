@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1528-shuffle-string) |
+| [1563-stone-game-v](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1563-stone-game-v) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1563-stone-game-v) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
