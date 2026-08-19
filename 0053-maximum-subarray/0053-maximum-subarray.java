@@ -4,10 +4,6 @@ class Solution {
         int currSum = 0;
         int max = Integer.MIN_VALUE;
 
-        if(nums.length == 1 && nums[0] < 0){
-            return nums[0];
-        }
-
         for(int x:nums){
             currSum = currSum + x;
             max = Math.max(currSum, max);
