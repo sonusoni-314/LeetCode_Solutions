@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3115-maximum-prime-difference) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0704-binary-search) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3115-maximum-prime-difference](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3115-maximum-prime-difference) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3115-maximum-prime-difference](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3115-maximum-prime-difference) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -348,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
