@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1768-merge-strings-alternately](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2315-count-asterisks](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2315-count-asterisks) |
