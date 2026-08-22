@@ -13,7 +13,7 @@ class Solution {
         }
 
         int val = sum + product;
-        if(og%val == 0)
+        if(og % val == 0)
             return true;
 
         return false;        
