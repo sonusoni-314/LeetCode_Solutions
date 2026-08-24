@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1563-stone-game-v) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1872-stone-game-viii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -411,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -418,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 ## Euclidean Algorithm
 |  |
