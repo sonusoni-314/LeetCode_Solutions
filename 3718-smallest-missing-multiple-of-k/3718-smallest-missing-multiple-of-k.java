@@ -7,13 +7,8 @@ class Solution {
 
         int multiple = k;
 
-        while(multiple <= 100){
-            
-            if(set.contains(multiple))
-                multiple += k;
-            else
-                break;
-      
+        while(set.contains(multiple)){
+            multiple += k;
         }
         return multiple;        
     }
