@@ -36,11 +36,9 @@ class Solution {
         step2 = n - Math.min(maxidx, minidx);
 
         int step3 = 0;
+        //case3:
         step3 = (Math.min(maxidx, minidx) + 1) + (n - Math.max(maxidx, minidx));
 
-        return Math.min(step1, Math.min(step2, step3));
-
-
-        
+        return Math.min(step1, Math.min(step2, step3));  
     }
 }
