@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1872-stone-game-viii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
