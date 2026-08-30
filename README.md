@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0279-perfect-squares) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0877-stone-game) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0279-perfect-squares) |
 | [0507-perfect-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -490,4 +493,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
