@@ -3,6 +3,10 @@ class Solution {
 
         int n = nums.length;
 
+        if(n == 1){
+            return 1;
+        }
+
         int max = Integer.MIN_VALUE;
         int maxidx = 0;
 
