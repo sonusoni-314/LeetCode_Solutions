@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
