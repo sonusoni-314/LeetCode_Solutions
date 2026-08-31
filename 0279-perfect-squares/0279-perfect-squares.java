@@ -20,8 +20,8 @@ class Solution {
         
         for(int i=1; i*i<=n; i++){
             int sq = i*i;
-            int res = solve(n-sq, dp);
-            count = Math.min(count, res+1);
+            int res = 1+solve(n-sq, dp);
+            count = Math.min(count, res);
         }
         dp[n] = count;
         return count;
