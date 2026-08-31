@@ -1,44 +1,35 @@
 class Solution {
     public int minimumDeletions(int[] nums) {
 
-        int n = nums.length;
+        int maxElement = Integer.MIN_VALUE;
+        int maxIndex = 0;
 
-        if(n == 1){
-            return 1;
-        }
-
-        int max = Integer.MIN_VALUE;
-        int maxidx = 0;
-
-        for(int i=0; i<n; i++){
-            if(max < nums[i]){
-                max = nums[i];
-                maxidx = i;
+        for(int i=0; i<nums.length; i++){
+            if(maxElement < nums[i]){
+                maxElement = nums[i];
+                maxIndex = i;
             }
         }
 
-        int min = Integer.MAX_VALUE;
-        int minidx = 0;
+        int minElement = Integer.MAX_VALUE;
+        int minIndex = 0;
 
-        for(int i=0; i<n; i++){
-            if(min > nums[i]){
-                min = nums[i];
-                minidx =  i;
+        for(int i=0; i<nums.length; i++){
+            if(minElement > nums[i]){
+                minElement = nums[i];
+                minIndex = i;
             }
-        }        
+        }
 
-        int step1 = 0;
-        //case 1:
-        step1 = Math.max(maxidx, minidx) + 1;
+        // case 1 :
+        int step1 = Math.max(minIndex, maxIndex) + 1;
 
-        int step2 = 0;
-        //case2:
-        step2 = n - Math.min(maxidx, minidx);
+        // case 2 :
+        int step2 = nums.length - Math.min(minIndex, maxIndex);
 
-        int step3 = 0;
-        //case3:
-        step3 = (Math.min(maxidx, minidx) + 1) + (n - Math.max(maxidx, minidx));
+        //case 3 :
+        int step3 = (Math.min(minIndex, maxIndex) + 1) + (nums.length - Math.max(minIndex, maxIndex));
 
-        return Math.min(step1, Math.min(step2, step3));  
+        return Math.min(step1, Math.min(step2, step3));        
     }
 }
